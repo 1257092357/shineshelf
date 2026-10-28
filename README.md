@@ -1,9 +1,2 @@
-# 光匣官网本地版本
-
-直接打开 `index.html`。`privacy.html` 和 `support.html` 是独立页面；`styles.css` 和 `site.js` 控制布局与中英文切换。所有素材位于 `assets/`，部署时请保留整个目录结构。
-
-首页目前使用用户提供的 Quest 截图，以及项目内的湖景场景示意图。后续可用相同文件名替换图片，或修改 `index.html` 中对应的 `src`。建议使用经用户审阅的高清宣传素材。
-
-隐私政策已按当前产品设计及开发者提供的信息编写；发布前仍须核实实际数据处理、网站托管、反馈邮箱的保存与删除方式，以及适用法律。当前版本没有发布，也没有假设商店链接已经可用。
-
-功能文案参考当前项目代码和 `QuestSceneStudio/features-111/README.md`、`features-112/README.md`。完整 Atmos 空间声和 WebXR 没有作为已验证功能宣传；部分文件、网络和云服务仍需在目标设备及用户账户下验证。
+shine shelf vr player
+光匣vr播放器网页
